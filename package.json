@@ -5,6 +5,7 @@
   "main": " ",
   "scripts": {
     "server-node": "http-server -p 8081"
+    
   },
   "repository": {
     "type": "git",
@@ -13,7 +14,7 @@
   "keywords": [
     "Birthday"
   ],
-  "author": "Ayush Sharma",
+  "author": "M Baqir",
   "license": "WTFPL",
   "bugs": {
     "url": "https://github.com/ayusharma/birthday/issues"
